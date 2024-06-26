@@ -1,12 +1,15 @@
-package changha.web.webApp.models;
+package changha.web.models;
 
+import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Positive;
 import org.springframework.data.annotation.Id;
 
 import java.time.LocalDateTime;
 
-public record bobas(
+public record Boba(
         @Id
+        Integer id,
+        @NotBlank
         String name,
         @Positive
         Integer weightInGrams,
@@ -14,7 +17,7 @@ public record bobas(
         Double currentPriceInEuro,
         @Positive
         Double pricePerUnit,
-        LocalDateTime lastUpdateTs,
+        String lastUpdateTs,
         Double lastPriceInEuro
 ) {
 }

@@ -1,10 +1,13 @@
-package changha.web.webApp.models;
+package changha.web.models;
 
 import jakarta.annotation.Nullable;
+import jakarta.validation.constraints.NotBlank;
 import org.springframework.data.annotation.Id;
 
-public record recipeOfSyrup(
+public record RecipeOfSyrup(
         @Id
+        Integer id,
+        @NotBlank
         String name,
         @Nullable
         Integer sugarInGrams,
@@ -15,6 +18,10 @@ public record recipeOfSyrup(
         @Nullable
         Integer cannedFruitInGrams,
         @Nullable
-        Integer waterInMilliliters
+        Integer boboqSyrupInMilliliters,
+        @Nullable
+        Integer waterInMilliliters,
+        @Nullable
+        Integer totalAmount
 ) {
 }

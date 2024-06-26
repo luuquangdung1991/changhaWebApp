@@ -1,13 +1,15 @@
-package changha.web.webApp.models;
+package changha.web.models;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Positive;
 import org.springframework.data.annotation.Id;
 
-import java.time.LocalDateTime;
-
-public record packaging(
+public record Packaging(
         @Id
+        Integer id,
+        @NotBlank
         String name,
         @NotNull
         TypeOfPackaging typeOfPackaging,
@@ -15,6 +17,6 @@ public record packaging(
         Integer numberPerPack,
         @Positive
         Double currentPriceInEuro,
-        LocalDateTime lastUpdateTs,
-        Double lastPrice
+        String lastUpdateTs,
+        Double lastPriceInEuro
 ) {}
