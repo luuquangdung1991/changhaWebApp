@@ -1,4 +1,4 @@
-package changha.web.webApp;
+package changha.web;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
