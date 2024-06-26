@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "cup",
+    "typeOfPackaging": "CUP",
+    "numberPerPack": 2000,
+    "currentPriceInEuro": 100.0,
+    "lastUpdateTs": "2024-06-24T13:52:00",
+    "lastPriceInEuro": 100.0
+  },
+  {
+    "id": 2,
+    "name": "drinking straw",
+    "typeOfPackaging": "DRINKING_STRAW",
+    "numberPerPack": 10000,
+    "currentPriceInEuro": 200.0,
+    "lastUpdateTs": "2024-06-24T13:52:00",
+    "lastPriceInEuro": 200.0
+  },
+  {
+    "id": 3,
+    "name": "sealing film",
+    "typeOfPackaging": "SEALING_FILM",
+    "numberPerPack": 2200,
+    "currentPriceInEuro": 30.0,
+    "lastUpdateTs": "2024-06-24T13:52:00",
+    "lastPriceInEuro": 30.0
+  }
+]

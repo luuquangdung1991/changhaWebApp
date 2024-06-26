@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "name": "Peach",
+    "typeOfMaterial": "CANNED_FRUIT",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  },
+  {
+    "id": 2,
+    "name": "Peach",
+    "typeOfMaterial": "BOBOQ_SYRUP",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  },
+  {
+    "id": 3,
+    "name": "Passion",
+    "typeOfMaterial": "CANNED_FRUIT",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  },
+  {
+    "id": 4,
+    "name": "Passion",
+    "typeOfMaterial": "BOBOQ_SYRUP",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  },
+  {
+    "id": 5,
+    "name": "Mango",
+    "typeOfMaterial": "CANNED_FRUIT",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  },
+  {
+    "id": 6,
+    "name": "Mango",
+    "typeOfMaterial": "BOBOQ_SYRUP",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  },
+  {
+    "id": 7,
+    "name": "Raspberry",
+    "typeOfMaterial": "JAM",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  },
+  {
+    "id": 8,
+    "name": "Raspberry",
+    "typeOfMaterial": "BOBOQ_SYRUP",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  },
+  {
+    "id": 9,
+    "name": "Litchi",
+    "typeOfMaterial": "CANNED_FRUIT",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  },
+  {
+    "id": 10,
+    "name": "Litchi",
+    "typeOfMaterial": "BOBOQ_SYRUP",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  },
+  {
+    "id": 11,
+    "name": "Lime",
+    "typeOfMaterial": "BOBOQ_SYRUP",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  },
+  {
+    "id": 12,
+    "name": "Cherry",
+    "typeOfMaterial": "JAM",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  },
+  {
+    "id": 13,
+    "name": "Cherry",
+    "typeOfMaterial": "BOBOQ_SYRUP",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  },
+  {
+    "id": 14,
+    "name": "Blueberry",
+    "typeOfMaterial": "JAM",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  },
+  {
+    "id": 15,
+    "name": "Blueberry",
+    "typeOfMaterial": "BOBOQ_SYRUP",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  },
+  {
+    "id": 16,
+    "name": "Strawberry",
+    "typeOfMaterial": "JAM",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  },
+  {
+    "id": 17,
+    "name": "Strawberry",
+    "typeOfMaterial": "BOBOQ_SYRUP",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  },
+  {
+    "id": 18,
+    "name": "Honeydew melon",
+    "typeOfMaterial": "BOBOQ_SYRUP",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  },
+  {
+    "id": 19,
+    "name": "Green apple",
+    "typeOfMaterial": "BOBOQ_SYRUP",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  },
+  {
+    "id": 20,
+    "name": "Guave",
+    "typeOfMaterial": "BOBOQ_SYRUP",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  },
+  {
+    "id": 21,
+    "name": "Watermelon",
+    "typeOfMaterial": "BOBOQ_SYRUP",
+    "weightInGrams": 3200,
+    "massInMilliliters": 0,
+    "pricePerUnit": 10.0,
+    "currentPriceInEuro": 10.0,
+    "lastUpdateTs": "2024-06-11T13:52:00",
+    "lastPriceInEuro": 10.0
+  }
+]

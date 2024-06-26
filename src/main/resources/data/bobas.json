@@ -1,0 +1,110 @@
+[
+    {
+      "id": 1,
+      "name": "peach",
+      "weightInGrams": 800,
+      "currentPriceInEuro": 11.80,
+      "pricePerUnit": 0.24,
+      "lastUpdateTs": "2024-06-24T12:20:00",
+      "lastPriceInEuro": 11.80
+    },
+    {
+      "id": 2,
+      "name": "passion",
+      "weightInGrams": 800,
+      "currentPriceInEuro": 11.80,
+      "pricePerUnit": 0.24,
+      "lastUpdateTs": "2024-06-24T12:20:00",
+      "lastPriceInEuro": 11.80
+    },
+    {
+      "id": 3,
+      "name": "mango",
+      "weightInGrams": 800,
+      "currentPriceInEuro": 11.80,
+      "pricePerUnit": 0.24,
+      "lastUpdateTs": "2024-06-24T12:20:00",
+      "lastPriceInEuro": 11.80
+    },
+    {
+      "id": 4,
+      "name": "litchi",
+      "weightInGrams": 800,
+      "currentPriceInEuro": 11.80,
+      "pricePerUnit": 0.24,
+      "lastUpdateTs": "2024-06-24T12:20:00",
+      "lastPriceInEuro": 11.80
+    },
+    {
+      "id": 5,
+      "name": "cherry",
+      "weightInGrams": 800,
+      "currentPriceInEuro": 11.80,
+      "pricePerUnit": 0.24,
+      "lastUpdateTs": "2024-06-24T12:20:00",
+      "lastPriceInEuro": 11.80
+    },
+    {
+      "id": 6,
+      "name": "blueberry",
+      "weightInGrams": 800,
+      "currentPriceInEuro": 11.80,
+      "pricePerUnit": 0.24,
+      "lastUpdateTs": "2024-06-24T12:20:00",
+      "lastPriceInEuro": 11.80
+    },
+    {
+      "id": 7,
+      "name": "strawberry",
+      "weightInGrams": 800,
+      "currentPriceInEuro": 11.80,
+      "pricePerUnit": 0.24,
+      "lastUpdateTs": "2024-06-24T12:20:00",
+      "lastPriceInEuro": 11.80
+    },
+    {
+      "id": 8,
+      "name": "green apple",
+      "weightInGrams": 800,
+      "currentPriceInEuro": 11.80,
+      "pricePerUnit": 0.24,
+      "lastUpdateTs": "2024-06-24T12:20:00",
+      "lastPriceInEuro": 11.80
+    },
+    {
+      "id": 9,
+      "name": "watermelon",
+      "weightInGrams": 800,
+      "currentPriceInEuro": 11.80,
+      "pricePerUnit": 0.24,
+      "lastUpdateTs": "2024-06-24T12:20:00",
+      "lastPriceInEuro": 11.80
+    },
+    {
+      "id": 10,
+      "name": "pitaya",
+      "weightInGrams": 800,
+      "currentPriceInEuro": 11.80,
+      "pricePerUnit": 0.24,
+      "lastUpdateTs": "2024-06-24T12:20:00",
+      "lastPriceInEuro": 11.80
+    },
+    {
+      "id": 11,
+      "name": "pomegranate",
+      "weightInGrams": 800,
+      "currentPriceInEuro": 11.80,
+      "pricePerUnit": 0.24,
+      "lastUpdateTs": "2024-06-24T12:20:00",
+      "lastPriceInEuro": 11.80
+    },
+    {
+      "id": 12,
+      "name": "coconut",
+      "weightInGrams": 800,
+      "currentPriceInEuro": 11.80,
+      "pricePerUnit": 0.24,
+      "lastUpdateTs": "2024-06-24T12:20:00",
+      "lastPriceInEuro": 11.80
+    }
+]

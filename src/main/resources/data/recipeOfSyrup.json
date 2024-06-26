@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Peach",
+    "sugarInGrams": 1000,
+    "gellingSugarInGrams": 2000,
+    "jamInGrams": 0,
+    "cannedFruitInGrams": 3200,
+    "boboqSyrupInMilliliters": 1000,
+    "waterInMilliliters": 0,
+    "totalAmount": 5500
+  },
+  {
+    "id": 2,
+    "name": "Passion",
+    "sugarInGrams": 2000,
+    "gellingSugarInGrams": 1000,
+    "jamInGrams": 0,
+    "cannedFruitInGrams": 1000,
+    "boboqSyrupInMilliliters": 1000,
+    "waterInMilliliters": 0,
+    "totalAmount": 3500
+  },
+  {
+    "id": 3,
+    "name": "Mango",
+    "sugarInGrams": 2000,
+    "gellingSugarInGrams": 2000,
+    "jamInGrams": 0,
+    "cannedFruitInGrams": 3100,
+    "boboqSyrupInMilliliters": 1000,
+    "waterInMilliliters": 300,
+    "totalAmount": 6400
+  },
+  {
+    "id": 4,
+    "name": "Raspberry",
+    "sugarInGrams": 0,
+    "gellingSugarInGrams": 0,
+    "jamInGrams": 1000,
+    "cannedFruitInGrams": 0,
+    "boboqSyrupInMilliliters": 600,
+    "waterInMilliliters": 0,
+    "totalAmount": 1600
+  },
+  {
+    "id": 5,
+    "name": "Litchi",
+    "sugarInGrams": 1000,
+    "gellingSugarInGrams": 1000,
+    "jamInGrams": 0,
+    "cannedFruitInGrams": 1000,
+    "boboqSyrupInMilliliters": 1000,
+    "waterInMilliliters": 0,
+    "totalAmount": 3000
+  },
+  {
+    "id": 6,
+    "name": "Cherry",
+    "sugarInGrams": 0,
+    "gellingSugarInGrams": 0,
+    "jamInGrams": 1000,
+    "cannedFruitInGrams": 0,
+    "boboqSyrupInMilliliters": 600,
+    "waterInMilliliters": 0,
+    "totalAmount": 1600
+  },
+  {
+    "id": 7,
+    "name": "Blueberry",
+    "sugarInGrams": 0,
+    "gellingSugarInGrams": 0,
+    "jamInGrams": 1000,
+    "cannedFruitInGrams": 0,
+    "boboqSyrupInMilliliters": 900,
+    "waterInMilliliters": 0,
+    "totalAmount": 1900
+  },
+  {
+    "id": 8,
+    "name": "Strawberry",
+    "sugarInGrams": 0,
+    "gellingSugarInGrams": 0,
+    "jamInGrams": 1000,
+    "cannedFruitInGrams": 0,
+    "boboqSyrupInMilliliters": 1200,
+    "waterInMilliliters": 600,
+    "totalAmount": 2800
+  },
+  {
+    "id": 9,
+    "name": "Sugar",
+    "sugarInGrams": 6000,
+    "gellingSugarInGrams": 1000,
+    "jamInGrams": 0,
+    "cannedFruitInGrams": 0,
+    "boboqSyrupInMilliliters": 0,
+    "waterInMilliliters": 3000,
+    "totalAmount": 6000
+  }
+]
